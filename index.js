@@ -23,7 +23,5 @@ function decrement(x) {
 }
 
 function makeInt(x) {
-  parseInt('x', 10) {
-    return 'x'
-  }
+  return (parseInt('x', 10))
 }
