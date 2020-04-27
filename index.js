@@ -22,6 +22,6 @@ function decrement(x) {
   return x -= 1
 }
 
-function makeInt(763) {
+function makeInt(n) {
   return (parseInt('763', 10))
 }
